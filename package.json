@@ -2,7 +2,10 @@
   "name": "02-nest-rn",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": {
+    "url": "https://hoidanit.vn",
+    "name": "Hỏi Dân IT"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
